@@ -69,7 +69,7 @@ The goal is to showcase proficiency in:
 ---
 
 ## Repository Structure
-comfyco-sales-etl-showcase/
+sql-to-powerbi-etl-pipeline/
 │
 ├── data-raw/                # Original Excel source files
 ├── sql-scripts/             # MySQL schema and transformation queries

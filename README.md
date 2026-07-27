@@ -54,7 +54,6 @@ The goal is to showcase proficiency in:
 | **Excel** | Source data and initial structure |
 | **MySQL** | Data cleaning, schema design, and ETL |
 | **Power BI** | Modeling, DAX, and visualization |
-| **Copilot AI** | Assisted documentation and workflow optimization |
 
 ---
 
